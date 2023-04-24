@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- **Business Management** and **Biostatistics** background; 
+- **Business Management** and **Biostatistics** background; Graduated in 2019 & 2021;
 - 🤔 Published one [**paper**](https://www.sciencedirect.com/science/article/pii/S1053811921010569);
 - Writing **R & Python** since 2018; 
 - Using **Git** since 2019; 
