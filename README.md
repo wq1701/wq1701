@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Business Management and Biostatistics background; 
+- Published one paper;
+- Writing R & Python since 2018; 
+- Using Git since 2019; 
+- Working with Hive & Hadoop since 2021;
+- Proficiency in Data Wrangling / Visualization / Analysis & Modeling; 
+- Confident in Presentation;
+- Practical Experience with Linux / SAS; 
+- Comfortable using Terminal;
+- Hosted one website, one R Shiny app, and one Streamlit app;
