@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - Confident in Presentation;
 - Practical Experience with **Linux / SAS**; 
 - Comfortable using **Terminal**;
-- ❤️ Hosted one website, one R Shiny app, and one Streamlit app;
+- ❤️ Hosted one website, built one R Shiny app, and one Streamlit app;
